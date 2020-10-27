@@ -2,7 +2,7 @@
 Quality guide phase unwrapping based on a prunig strategy
 
 
-This repository contains the source code and data files of the quality guide phase unwrapping algorithm publised in https://doi.org/10.1364/AO.57.003126
+This repository contains the source code and data files of the quality guide phase unwrapping algorithm published in https://doi.org/10.1364/AO.57.003126
 
 See the LICENSE file for the licensing statement and Disclaimer of Warranty.
 
