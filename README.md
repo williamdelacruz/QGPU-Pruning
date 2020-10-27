@@ -4,7 +4,7 @@ Quality guide phase unwrapping based on a prunig strategy
 
 This repository contains the source code and data files of the quality guide phase unwrapping algorithm publised in https://doi.org/10.1364/AO.57.003126
 
-See the LICENSE.txt file for the licensing statement and Disclaimer of Warranty.
+See the LICENSE file for the licensing statement and Disclaimer of Warranty.
 
 The source code was written in C++ on g++ compilers using Linux Ubuntu operating system. The organization of the directory qgpu is the following:
 
