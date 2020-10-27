@@ -6,7 +6,7 @@ This repository contains the source code and data files of the quality guide pha
 
 See the LICENSE file for the licensing statement and Disclaimer of Warranty.
 
-The source code was written in C++ on g++ compilers using Linux Ubuntu operating system. The organization of the directory qgpu is the following:
+The source code was written in C++ on g++ compiler using Linux Ubuntu operating system. The organization of the directory qgpu is the following:
 
 1. lib, include, src: Implementation of the quality guide phase unwrapping algorithm with the pruning strategy.
 
